@@ -1,0 +1,2 @@
+### Get all rocket
+GET http://localhost:3000/rocket/falcon1
